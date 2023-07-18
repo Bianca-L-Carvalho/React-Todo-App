@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "id": 0.09306384920842015,
+      "title": "teste 2",
+      "time": "2",
+      "done": false
+    }
+  ]
+}
